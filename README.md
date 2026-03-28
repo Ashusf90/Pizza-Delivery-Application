@@ -1,26 +1,26 @@
-# 🍕 Pizza App - Full Stack Application
+#  Pizza App - Full Stack Application
 
 A complete full-stack pizza ordering application with custom pizza builder, Razorpay payment integration, inventory management, and real-time order tracking.
 
-## 🌟 Features
+##  Features
 
 ### User Features
-- ✅ Complete authentication system (Register, Login, Email Verification, Forgot Password)
-- 🍕 Interactive custom pizza builder with step-by-step process
-- 🛒 Real-time order tracking with status updates
-- 💳 Razorpay payment integration (Test Mode)
-- 📧 Email notifications for order status changes
-- 📱 Responsive design with smooth animations
+-  Complete authentication system (Register, Login, Email Verification, Forgot Password)
+-  Interactive custom pizza builder with step-by-step process
+-  Real-time order tracking with status updates
+-  Razorpay payment integration (Test Mode)
+-  Email notifications for order status changes
+-  Responsive design with smooth animations
 
 ### Admin Features
-- 📊 Comprehensive dashboard with order statistics
-- 🏪 Complete inventory management system
-- 📦 Real-time stock tracking
-- ⚠️ Low stock alerts via email
-- 🔄 Order status management (Received → Kitchen → Delivery → Delivered)
-- 📈 Analytics and reporting
+-  Comprehensive dashboard with order statistics
+-  Complete inventory management system
+- Real-time stock tracking
+-  Low stock alerts via email
+-  Order status management (Received → Kitchen → Delivery → Delivered)
+-  Analytics and reporting
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - Node.js & Express.js
