@@ -38,7 +38,7 @@ A complete full-stack pizza ordering application with custom pizza builder, Razo
 - Axios for API calls
 - React Hot Toast for notifications
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 pizza-app/
@@ -83,7 +83,7 @@ pizza-app/
 └── README.md
 ```
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -253,11 +253,11 @@ const seedData = async () => {
 
     await Inventory.insertMany(inventoryData);
 
-    console.log('✅ Database seeded successfully!');
-    console.log('\n📧 Admin Credentials:');
+    console.log(' Database seeded successfully!');
+    console.log('\n Admin Credentials:');
     console.log('Email: admin@pizzaapp.com');
     console.log('Password: admin123');
-    console.log('\n📧 User Credentials:');
+    console.log('\n User Credentials:');
     console.log('Email: user@test.com');
     console.log('Password: user123');
     
@@ -303,7 +303,7 @@ npm run dev
 
 The frontend will run on `http://localhost:5173`
 
-## 🎯 Usage Guide
+##  Usage Guide
 
 ### For Users:
 
@@ -360,10 +360,10 @@ The frontend will run on `http://localhost:5173`
 ## 📧 Email Notifications
 
 The system sends emails for:
-- ✉️ Account verification
-- 🔐 Password reset
-- 📦 Order status updates
-- ⚠️ Low stock alerts (to admin)
+- Account verification
+- Password reset
+- Order status updates
+- Low stock alerts (to admin)
 
 ## 🔒 Security Features
 
